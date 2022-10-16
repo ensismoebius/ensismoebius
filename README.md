@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ensismoebius aka Andrá Furlan
+- 👋 Hi, I’m @ensismoebius aka André Furlan
 - 👀 I’m interested in Artificial intelegence, signal processing, brain computer interface, anarchism and communism
 - 🌱 I’m currently working in neural networks based algorithms to detect and proccess signals from EEG equipments
 - 📫 Mail: ensismoenius at gmail.com
